@@ -253,6 +253,4 @@ Use it well.
 
 ---
 
-*End of the GitHub + Perplexity Development Guide.*
-
-[← Table of Contents](../../README.md)
+[← Table of Contents](../../README.md) | [Chapter 12 — Presenting and Sharing Your Project →](../12-presenting/README.md)
