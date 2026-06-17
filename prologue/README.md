@@ -1,5 +1,7 @@
 # Prologue — A New Way of Seeing
 
+[← Table of Contents](../README.md)
+
 *You don't have to be a developer to benefit from reading this book.*
 
 ---
@@ -77,4 +79,4 @@ If you just read this prologue and close the book: that's okay too. The seed is 
 
 ---
 
-*Proceed to [Chapter 1 — Introduction: Why GitHub + Perplexity?](../chapters/01-introduction/README.md)*
+**Next:** [Chapter 1 — Introduction: Why GitHub + Perplexity?](../chapters/01-introduction/README.md)

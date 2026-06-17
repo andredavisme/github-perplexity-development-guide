@@ -1,5 +1,7 @@
 # Chapter 2 — Setting Up Your GitHub Repository
 
+[← Table of Contents](../../README.md)
+
 ---
 
 ## Tell
@@ -197,3 +199,7 @@ Your repository is no longer just a folder — it's a structured workspace with 
 This setup is what allows the next step to happen smoothly: in **Chapter 3**, you'll connect Perplexity to your GitHub account and verify that it can read and act on the structure you just built. When Perplexity sees labels like `feature` and milestones like `v1.0`, it can work within your system — not around it.
 
 The structure you built today is the foundation everything else stands on.
+
+---
+
+**Next:** [Chapter 3 — Connecting Perplexity to GitHub](../03-perplexity-integration/README.md)

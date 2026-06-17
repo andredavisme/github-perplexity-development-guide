@@ -1,5 +1,7 @@
 # Chapter 1 — Introduction: Why GitHub + Perplexity?
 
+[← Table of Contents](../../README.md)
+
 ---
 
 ## Tell
@@ -91,3 +93,7 @@ This means you can browse the commit history, read the issues, and follow along 
 You now understand *why* this workflow exists and have a GitHub home for your project. A repo isn't just a file storage system — it's a living record of decisions, work, and progress.
 
 In **Chapter 2**, we'll configure that repo properly: setting up labels, milestones, and the issue templates that give your project a shared language.
+
+---
+
+**Next:** [Chapter 2 — Setting Up Your GitHub Repository](../02-github-setup/README.md)
