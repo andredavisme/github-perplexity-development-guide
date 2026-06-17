@@ -1,0 +1,29 @@
+name: Feature
+description: A new capability or deliverable
+labels: ["feature"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One sentence — what this feature does and why it matters.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: List the conditions that must be true for this to be complete.
+      value: "- [ ] \n- [ ] \n- [ ] "
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Background, links, or related issues.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Implementation ideas, risks, open questions.

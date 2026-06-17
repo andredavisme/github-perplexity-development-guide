@@ -1,0 +1,29 @@
+name: Task
+description: A discrete, actionable work item
+labels: ["task"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs to be done
+      description: Be specific. A well-written task has a clear start and a clear end.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps
+      description: Break the task into sub-steps if helpful.
+      value: "- [ ] \n- [ ] "
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of Done
+      description: How will you know this task is complete?
+    validations:
+      required: true
+  - type: textarea
+    id: related
+    attributes:
+      label: Related Issues
+      description: Link any parent features or dependent tasks.

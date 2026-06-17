@@ -1,0 +1,28 @@
+name: Question
+description: A discussion point or request for clarification
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: State the question clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why is this coming up? What decision depends on the answer?
+    validations:
+      required: true
+  - type: textarea
+    id: options
+    attributes:
+      label: Options Considered
+      value: "- \n- "
+  - type: input
+    id: who
+    attributes:
+      label: Who can help
+      placeholder: "@username"
