@@ -70,6 +70,7 @@ A consistent naming convention makes issues scannable and unambiguous. The stand
 | **Issue Body** | The description field of an issue. Should include context, steps, and acceptance criteria. |
 | **Acceptance Criteria** | The specific conditions that must be true for an issue to be considered complete |
 | **Assignee** | The person (or team) responsible for completing the issue |
+| **Stub** | A placeholder file or section that marks where content will go, but contains only a title and brief outline rather than full content. Stubs are a common way to establish structure before filling in detail. |
 
 ### After This Chapter You Will Be Able To
 - Identify what belongs in an issue vs. what doesn't
@@ -88,12 +89,12 @@ Here is how the issues for this textbook's own development could be created usin
 
 #### The Prompt
 
-> *"We're working on `andredavisme/github-perplexity-development-guide`. This is an educational textbook teaching GitHub + Perplexity workflows. Please create a set of issues for writing the remaining chapter stubs. Use the `task` label and assign them to the `Part 2: Planning With AI` milestone where appropriate. Use verb-noun titles."*
+> *"We're working on `andredavisme/github-perplexity-development-guide`. This is an educational textbook teaching GitHub + Perplexity workflows. Please create a set of issues for writing the remaining chapter stubs — the placeholder files that have an outline but not yet full Tell/Show/Do content. Use the `task` label and assign them to the `Part 2: Planning With AI` milestone where appropriate. Use verb-noun titles."*
 
 #### What Perplexity Does
 
 1. Reads the existing repo structure to see what's already written
-2. Identifies the stub chapters that need content
+2. Identifies the stub chapters — those with only a title and outline — that need full content
 3. Generates issues with consistent titles, descriptions, and labels
 4. Creates them directly in the repository via MCP
 
