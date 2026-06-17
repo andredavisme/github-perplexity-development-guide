@@ -8,12 +8,14 @@
 
 This guide teaches you how to combine GitHub's project management tools with Perplexity's AI capabilities to bring complex projects to life in a structured, collaborative, and reviewable way. Whether you're a solo developer, a student, or part of a small team, this workflow helps you work smarter — not just faster.
 
-**Who this is for:** Developers and learners who want a repeatable, AI-assisted process for managing real projects from idea to completion.
+**Who this is for:** Developers, learners, and curious non-technical readers who want to understand how structured thinkers approach work — and how to borrow those habits for any kind of project.
 
-**What you'll need:**
+**What you'll need to do the labs:**
 - A GitHub account
 - Access to Perplexity with GitHub MCP integration connected
-- A project idea (your own, or you can follow the running example in the book)
+- A project idea (your own, or follow the running example in the book)
+
+*No technical background is required to read and benefit from this book.*
 
 ---
 
@@ -33,6 +35,8 @@ You can read straight through or jump to any chapter — each section is self-co
 ---
 
 ## Table of Contents
+
+- [Prologue — A New Way of Seeing](./prologue/README.md)
 
 ### Part 1: Foundations
 - [Chapter 1 — Introduction: Why GitHub + Perplexity?](./chapters/01-introduction/README.md)
