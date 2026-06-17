@@ -253,4 +253,4 @@ Use it well.
 
 ---
 
-[← Table of Contents](../../README.md) | [Chapter 12 — Presenting and Sharing Your Project →](../12-presenting/README.md)
+**Next:** [Chapter 12 — Presenting and Sharing Your Project →](../12-presenting/README.md)
